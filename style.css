@@ -1,0 +1,19 @@
+body{
+    background-color: #272829;
+}
+#open-btn{
+    position: absolute;
+    top: 70%;
+    left: 10%;
+    width: 350px;
+    
+    font-size: 2rem;
+    background: transparent;
+    color: aliceblue;
+    border:solid 2px #fff;
+    border-radius: 10px;
+    padding:5px;
+    margin-bottom: 5px !important;
+    box-shadow: 0 0 3px whitesmoke;
+    transition: .5s;
+}
